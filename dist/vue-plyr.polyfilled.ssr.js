@@ -1,4 +1,4 @@
-'use strict';Object.defineProperty(exports,'__esModule',{value:true});var Plyr=require('plyr/dist/plyr.polyfilled');require('plyr/dist/plyr.css');function _interopDefaultLegacy(e){return e&&typeof e==='object'&&'default'in e?e:{'default':e}}var Plyr__default=/*#__PURE__*/_interopDefaultLegacy(Plyr);var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
+'use strict';Object.defineProperty(exports,'__esModule',{value:true});var Plyr=require('plyr/dist/plyr.polyfilled');function _interopDefaultLegacy(e){return e&&typeof e==='object'&&'default'in e?e:{'default':e}}var Plyr__default=/*#__PURE__*/_interopDefaultLegacy(Plyr);var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
 function createCommonjsModule(fn, basedir, module) {
 	return module = {
