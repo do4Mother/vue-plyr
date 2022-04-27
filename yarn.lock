@@ -7198,9 +7198,10 @@ plur@^4.0.0:
   dependencies:
     irregular-plurals "^3.2.0"
 
-"plyr@github:sampotts/plyr#develop":
-  version "3.7.0"
-  resolved "https://codeload.github.com/sampotts/plyr/tar.gz/d434c9af16e641400aaee93188594208d88f2658"
+plyr@^3.7.2:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/plyr/-/plyr-3.7.2.tgz#183d2397e7401a577700c8319fe133692b4aff54"
+  integrity sha512-I0ZC/OI4oJ0iWG9s2rrnO0YFO6aLyrPiQBq9kum0FqITYljwTPBbYL3TZZu8UJQJUq7tUWN18Q7ACwNCkGKABQ==
   dependencies:
     core-js "^3.22.0"
     custom-event-polyfill "^1.0.7"
